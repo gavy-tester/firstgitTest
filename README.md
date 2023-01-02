@@ -6,3 +6,17 @@
   - github의 개요
   - github에 repository생성하기
   
+
+----
+
+
+
+코드 볼릭을 작성하는 방법은 코드 앞 부분에 4칸을 띄어주면된다
+    
+    Integer in -100;
+    int val - Integer.parseInt("100");
+    
+    
+하이퍼 링크는 <>안에 작성하면된다
+<https://papago.naver.com/>
+마크다운에 대한문서
